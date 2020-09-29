@@ -1,0 +1,9 @@
+module {
+    color: white;
+    background-color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
+section {
+    color: grey;
+}
