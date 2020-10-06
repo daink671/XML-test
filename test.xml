@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?xml-stylesheet type='text/css' href='style.css'?>
 <it:document>
-    test test test
     <it:module lecturer="20191234">Interactive Web Applications&#33;</it:module>
     <it:section>Mikhail</it:section>
 </it:document><!-- this is root tag -->
